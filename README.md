@@ -22,3 +22,6 @@ npm start
 
 
 # kung wala ka naka sabut dili jud para saimuha ang IT 🤣  HAHAHAHA
+
+
+# YW na typo HAHAHAHAHAHAHAHA 
