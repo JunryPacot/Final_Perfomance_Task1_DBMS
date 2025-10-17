@@ -19,3 +19,6 @@ cd frontend
 npm start
 
 # sulbad nang Performance task😉
+
+
+# kung wala ka naka sabut dili jud para saimuha ang IT 🤣  HAHAHAHA
