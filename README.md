@@ -8,4 +8,14 @@
 
 # then run both backend and frontend 
 
+# backend 
+npm init -y
+npm install express mysql2 cors body-parser
+node server.js
+
+# frontend 
+
+cd frontend
+npm start
+
 # sulbad nang Performance task😉
