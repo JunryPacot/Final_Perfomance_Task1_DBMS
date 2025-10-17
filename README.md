@@ -20,8 +20,7 @@ npm start
 
 # sulbad nang Performance task😉
 
+# note base rani saakuang experience ug own knowledge if you think nga pangit ug sayun ra kaayuu jud saimuha as in naas lapa lapa akuang pamaraan respeto lang ta kay i know nag sugod pod ka sa basic wala dayun ka na abut sa senior level🫶
 
-# kung wala ka naka sabut dili jud para saimuha ang IT 🤣  HAHAHAHA
 
-
-# YW na typo HAHAHAHAHAHAHAHA 
+# Bless and love brother and sister 🫶❤️
